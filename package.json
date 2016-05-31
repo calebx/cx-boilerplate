@@ -1,0 +1,10 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "boilerplate from scratch",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "caleb.xiang",
+  "license": "MIT"
+}
